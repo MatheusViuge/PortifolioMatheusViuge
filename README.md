@@ -1,5 +1,5 @@
 # PortifolioMatheusViuge
-Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma coleção dos meus projetos e trabalhos pessoais, demonstrando minha jornada e habilidades como desenvolvedor(a).
+Bem-vindo ao meu repositório GitHub! Aqui você encontrará uma coleção dos meus projetos e trabalhos pessoais, demonstrando minha jornada e habilidades como desenvolvedor.
 
 ## Sobre Mim
 
