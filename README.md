@@ -23,6 +23,7 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects an
 My name is Matheus Viana Viuge Antunes, currently pursuing a degree in Computer Science at Centro Universitário Carioca. I have technical skills in Java, Javascript, Python, C++, HTML, CSS, React.js, and SQL. My English level is intermediate. I'm seeking my first professional experience to apply my knowledge and contribute meaningfully. Additionally, I have undertaken supplementary training to enhance my skills in Java, React, and Git/GitHub. I'm motivated and ready to tackle new challenges and learn continuously.
 
 ## Projects
+- [React Project: Comment Area](https://github.com/MatheusViuge/react-area-de-comentarios/tree/main): This is a small project simulating a comment area for a website and/or blog.
 
 ## Contact
 If you liked what you saw or have any questions about any of the projects, feel free to contact me via email (matheus.viuge05@gmail.com).
