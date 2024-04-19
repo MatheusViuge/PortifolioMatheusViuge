@@ -10,7 +10,9 @@ Meu nome é Matheus Viana Viuge Antunes, atualmente estou cursando Ciências da 
 
 ## Contato
 
-Se você gostou do que viu ou tem alguma pergunta sobre algum dos projetos, não hesite em entrar em contato comigo por e-mail (matheus.viuge05@gmail.com).
+Se você gostou do que viu ou tem alguma pergunta sobre algum dos projetos, não hesite em entrar em contato comigo:
+- e-mail : (matheus.viuge05@gmail.com).
+- Linkedin : [Matheus Viuge](https://www.linkedin.com/in/matheus-viana-viuge-antunes-380587246/) 
 
 Sinta-se à vontade para explorar os projetos e obrigado por visitar meu portfólio!
 
@@ -26,6 +28,8 @@ My name is Matheus Viana Viuge Antunes, currently pursuing a degree in Computer 
 - [React Project: Comment Area](https://github.com/MatheusViuge/react-area-de-comentarios/tree/main): This is a small project simulating a comment area for a website and/or blog.
 
 ## Contact
-If you liked what you saw or have any questions about any of the projects, feel free to contact me via email (matheus.viuge05@gmail.com).
+If you liked what you saw or have any questions about any of the projects, feel free to contact me:
+- e-mail : (matheus.viuge05@gmail.com).
+- Linkedin : [Matheus Viuge](https://www.linkedin.com/in/matheus-viana-viuge-antunes-380587246/)
 
 Feel free to explore the projects, and thank you for visiting my portfolio!
