@@ -8,6 +8,7 @@ Meu nome é Matheus Viana Viuge Antunes, atualmente estou cursando Ciências da 
 ## Projetos
 - [Projeto React: Área de Comentários](https://github.com/MatheusViuge/react-area-de-comentarios/tree/main): Este é um pequeno projeto simulando uma área de comentários de um site e/ou blog.
 - [Projeto React: Estoque Hortifruti](https://github.com/MatheusViuge/react-estoque-hortifruti): Este é um pequeno projeto simulando um estoque de um hortifruti.
+- [Projeto React: Formulario com Formik e Yup](https://github.com/MatheusViuge/react-formulario-cadastro): Projeto em React com exemplo de um formulário controlado via Formik e validado via Yup.
 - [Projeto React: Portal de Usuarios](https://github.com/MatheusViuge/React-portal-usuarios): Projeto em React com exemplo de requisições HTTP com Fecth API.
 
 ## Contato
@@ -29,6 +30,7 @@ My name is Matheus Viana Viuge Antunes, currently pursuing a degree in Computer 
 ## Projects
 - [React Project: Comment Area](https://github.com/MatheusViuge/react-area-de-comentarios/tree/main): This is a small project simulating a comment area for a website and/or blog.
 - [React Project: Hortifruti Inventory](https://github.com/MatheusViuge/react-estoque-hortifruti): This is a small project simulating a hortifruti inventory.
+- [React Project: Form with Formik and Yup](https://github.com/MatheusViuge/react-formulario-cadastro): React project featuring an example of a form controlled via Formik and validated via Yup.
 - [React Project: User Portal](https://github.com/MatheusViuge/React-portal-usuarios): React project featuring examples of HTTP requests using the Fetch API.
 
 ## Contact
